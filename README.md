@@ -39,6 +39,7 @@ Talem AI is a RAG application that uses Mircosoft Phi 3.5-mini instruct model. I
 - HuggingFace Inference API (running LLMs through cloud-based hardware)
 - MistralAI 7B Model (good reasoning at lower hardware costs, our LLM)
 - sentence-transformers model (for vector embeddings)
+- DJANGO (to host documentation and api)
 
 ## 3. Developer Credits
 
